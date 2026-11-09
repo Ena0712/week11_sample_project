@@ -40,3 +40,15 @@ npm run dev
 - 브라우저 새로고침 시 데이터가 초기화되는 이유는? (DB/localStorage 없음)
 
 > 교육 목적의 로컬 State 앱입니다. 서버 API 및 데이터베이스는 사용하지 않습니다.
+
+
+## Manager
+
+**Project Structure**
+- CourseItem : 
+
+**Component**
+
+**State & Event**
+
+**Code Analysis**
